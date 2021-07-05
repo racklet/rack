@@ -1,6 +1,6 @@
-# base-repo-layout
+# Rack
 
-Template (base) repository file layout for Racklet projects.
+This repository contains the CAD models and other resources for the Racklet reference rack.
 
 ## Contributing
 
