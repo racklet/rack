@@ -137,6 +137,9 @@ fp-info-cache
 # /Archives
 #
 
+# FreeCAD
+*.FCStd1
+
 # Intellij IDE
 .idea
 *.iml
